@@ -57,3 +57,11 @@ Whether you want to talk about AI, practice Spanish, or discuss education techno
 - **Email**: ssps6210@gmail.com
 
 *"Teaching is my profession, but creating is my passion."* ✨
+
+---
+
+## ☕ Support My Work
+
+If my free tools have saved you time, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/ssps6210noa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
