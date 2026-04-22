@@ -45,8 +45,8 @@ Here’s what I’ve been working on in my spare time:
 
 ## 📈 My Journey in Numbers
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ssps6210]&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ssps6210]&layout=compact&theme=vue-dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssps6210&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssps6210&layout=compact&theme=vue-dark)
 
 ---
 
