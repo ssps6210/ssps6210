@@ -53,8 +53,8 @@ Here’s what I’ve been working on in my spare time:
 ## 📫 Let's Connect!
 
 Whether you want to talk about AI, practice Spanish, or discuss education technology:
-- **LinkedIn**: (https://www.linkedin.com/in/min-chieh-liu-847112223/?locale=zh)
-- **Email**: ssps6210@gmail.com
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/min-chieh-liu-847112223/)
+- **GitHub**: [@ssps6210](https://github.com/ssps6210)
 
 *"Teaching is my profession, but creating is my passion."* ✨
 
