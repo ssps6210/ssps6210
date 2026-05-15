@@ -17,10 +17,13 @@ Welcome to my digital space! I am a professional teacher who discovered the magi
 
 ## 🗣️ Language Buffet (6 Languages!)
 
-I'm a language enthusiast! I can communicate in 6 natural languages (If cat and god languages count), bridging the gap between humans and machines:
--  **Mandarin Chinese** (Native)
--  **Spanish** (¡Hola! Mi pasión por los idiomas me define)
--  **English** (Professional)
+I'm a language enthusiast! I can communicate in 6 languages, bridging the gap between humans and machines:
+- 🇹🇼 **Mandarin Chinese** (Native)
+- 🫧 **Taiwanese** (Native)
+- 🥮 **Cantonese** (Fluent)
+- 🇯🇵 **Japanese** (Conversational)
+- 🇬🇧 **English** (Professional)
+- 🇪🇸 **Spanish** (¡Mi pasión por los idiomas me define!)
 
 ---
 
@@ -36,10 +39,10 @@ I'm a language enthusiast! I can communicate in 6 natural languages (If cat and 
 
 ## 📁 Free Resources & Projects
 
-Here’s what I’ve been working on in my spare time:
-- 📂 **[AI for Teachers]**: Tools and prompts to help educators save time.
-- 📂 **[Language Learning Hacks]**: Resources for polyglots and students.
-- 📂 **[Vibe Projects]**: Fun experiments built with AI.
+Here’s what I’ve been building in my spare time:
+- 🎮 **[Gladius RPG](https://github.com/ssps6210/Gladius-RPG)** — A browser-based arena RPG with combat, loot, and quests. [▶ Play now](https://ssps6210.github.io/Gladius-RPG)
+- 📊 **[Teacher Toolkit](https://github.com/ssps6210/teacher-toolkit)** — Upload exam results, auto-match answers, and generate parent messages. [▶ Try now](https://ssps6210.github.io/teacher-toolkit)
+- 🤖 **[WeChat Auto-Sender](https://github.com/ssps6210/wechat-auto-sender)** — Python automation tool to search WeChat contacts and send messages.
 
 ---
 
