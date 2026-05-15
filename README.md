@@ -40,9 +40,18 @@ I'm a language enthusiast! I can communicate in 6 languages, bridging the gap be
 ## 📁 Free Resources & Projects
 
 Here’s what I’ve been building in my spare time:
-- 🎮 **[Gladius RPG](https://github.com/ssps6210/Gladius-RPG)** — A browser-based arena RPG with combat, loot, and quests. [▶ Play now](https://ssps6210.github.io/Gladius-RPG)
-- 📊 **[Teacher Toolkit](https://github.com/ssps6210/teacher-toolkit)** — Upload exam results, auto-match answers, and generate parent messages. [▶ Try now](https://ssps6210.github.io/teacher-toolkit)
-- 🤖 **[WeChat Auto-Sender](https://github.com/ssps6210/wechat-auto-sender)** — Python automation tool to search WeChat contacts and send messages.
+
+**🎓 Education Tools**
+- 🎮 **[Gladius RPG](https://github.com/ssps6210/Gladius-RPG)** — Browser-based arena RPG with combat, loot, and quests. [▶ Play now](https://ssps6210.github.io/Gladius-RPG)
+- 📊 **[Teacher Toolkit](https://github.com/ssps6210/teacher-toolkit)** — Upload exam results, auto-match answers, generate parent messages. [▶ Try now](https://ssps6210.github.io/teacher-toolkit)
+- ✨ **[Rotational Symmetry Tool](https://github.com/ssps6210/rotational-symmetry)** — Interactive visual tool for teaching symmetry. [▶ Try now](https://ssps6210.github.io/rotational-symmetry)
+
+**🤖 Automation Tools**
+- 💬 **[WeChat Auto-Sender](https://github.com/ssps6210/wechat-auto-sender)** — Python tool to search WeChat contacts and send messages automatically.
+- 🗂️ **[Mac Tidy](https://github.com/ssps6210/mac-tidy)** — Python scripts to auto-organise your Downloads and PDF folders.
+- 🛍️ **[Vinted Auto-Relist](https://github.com/ssps6210/vinted-relist)** — Auto backup, delete, and re-list Vinted items to top of search.
+- 🚀 **[OGameX Auto Expedition](https://github.com/ssps6210/ogamex-auto-expedition)** — Tampermonkey script to auto-fill expedition slots.
+- ⚔️ **[OGameX Quick Raid](https://github.com/ssps6210/ogamex-quick-raid)** — One-click 2-wave raid from any spy report.
 
 ---
 
