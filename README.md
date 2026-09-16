@@ -2,13 +2,13 @@
 
 ### 🤖 AI Developer | 👩‍🏫 Educator | 🌍 Polyglot
 
-I build AI systems that solve problems I've actually run into — in classrooms, and at home with my own family. Teaching taught me what people struggle with; code lets me do something about it.
+I build AI systems for people that software usually overlooks — starting with my own grandfather. Teaching taught me how people learn and where they get stuck; that's what I design around.
 
 ---
 
 ## 🌟 About Me
 
-- 🧠 **What I build**: Voice AI, retrieval pipelines, and tools that put machine learning somewhere useful rather than somewhere impressive.
+- 🧠 **What I build**: Voice AI, locally-run models, and tools that put machine learning somewhere useful rather than somewhere impressive.
 - 🍎 **Where it comes from**: Years as an educator. Footprints in 56 countries. Both show up in what I make.
 - 🛠️ **How I work**: AI-assisted development end to end — I design the architecture and own the decisions, and use LLMs to move faster through the implementation.
 - 🎁 **Sharing is Caring**: I publish what I can, so other teachers and beginners don't start from zero.
@@ -45,7 +45,6 @@ I'm a language enthusiast! I can communicate in 6 languages, bridging the gap be
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Claude](https://img.shields.io/badge/Claude-6133BD?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
