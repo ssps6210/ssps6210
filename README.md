@@ -67,7 +67,6 @@ I'm a language enthusiast! I can communicate in 6 languages, bridging the gap be
 - 🍜 **[Family Diner](https://github.com/ssps6210/family-diner)** — Single-file dinner-ordering app for the household, with 50 Taiwanese home dishes.
 
 **🤖 Automation**
-- 💬 **[WeChat Auto-Sender](https://github.com/ssps6210/wechat-auto-sender)** — Python tool to search WeChat contacts and send messages automatically.
 - 🗂️ **[Mac Tidy](https://github.com/ssps6210/mac-tidy)** — Python scripts to auto-organise your Downloads and PDF folders.
 - 🛍️ **[Vinted Auto-Relist](https://github.com/ssps6210/vinted-relist)** — Auto backup, delete, and re-list Vinted items to top of search.
 - 🚀 **[OGameX Auto Expedition](https://github.com/ssps6210/ogamex-auto-expedition)** — Tampermonkey script to auto-fill expedition slots.
